@@ -1,8 +1,10 @@
-## Final project for a research seminar in Econometrics and Statistics - University of Bonn, WS 2019/20
+## Final project for a research seminar in Econometrics and Statistics
 
 **Title:** Regression Discontinuity Design: A Test for Manipulation of the Running Variable
 
 **Authors:** Caroline Krayer, Sofia Badini, Max Schäfer
+
+University of Bonn, WS 2019/20
 
 <hr />
 
